@@ -1,0 +1,9 @@
+.table__flex-row {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.table__flex-row:first-of-type {
+  padding-bottom: 60px;
+}
